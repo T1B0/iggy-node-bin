@@ -8,8 +8,8 @@
     "dist/**/*.d.ts",
     "dist/index.d.ts"
   ],
-  "types":"dist/index.d.ts",
-  "main":"dist/index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
   "scripts": {
     "test": "node --test --experimental-test-coverage dist/**/**/*.test.js",
     "clean": "rm -Rf dist/",
